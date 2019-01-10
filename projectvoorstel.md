@@ -26,7 +26,7 @@ Het doel van de website is de triviale kennis van de gebruikers vergroten door j
  * *Eventueel:* vriendensysteem waarin gebruikers met vrienden kunnen meespelen
 
 ## Afhankelijkheden
-# Databronnen
+### Databronnen
  * jservice.io
 
 ### Externe componenten
