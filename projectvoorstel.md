@@ -1,4 +1,4 @@
-### Projectvoorstel
+# Projectvoorstel
 
 ## Samenvatting
 Het doel van onze webapplicatie is dat gebruiker live een triviaspel tegen elkaar kunnen spelen en dit ook wordt bijgehouden door middel van een scoreboard.
@@ -29,16 +29,16 @@ Het doel van de website is de triviale kennis van de gebruikers vergroten door j
 # Databronnen
  * jservice.io
 
-# Externe componenten
+### Externe componenten
  * Bootstrap
  * SQLite
  * Github
 
-# Concurrenten
+### Concurrenten
  * Kahoot!, live spelen tegen elkaar.
  * Trivia Crack, tegen elkaar spelen met quizvragen en het bijhouden door middel van ene scorebord.
 
-# Moeilijke delen
+### Moeilijke delen
  * Het live spelen en eerlijk houden van spelers (latency)
  * Meerdere API's ondersteunen
 
