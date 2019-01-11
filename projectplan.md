@@ -2,8 +2,11 @@
 
 ## Achtergrond
 **Pakkende naam:** Vrae Vrae *(quizvragen in het Afrikaans)*
-**De website:** De website wordt een live triviaspel dat gespeeld kan worden met vrienden of in een schoolklas door middel van een presentatiemodus.
+
+**De website:** Het doel van onze webapplicatie is dat gebruiker live een triviaspel tegen elkaar kunnen spelen en dit dan ook wordt bijgehouden door middel van een scoreboard. Gebruikers kunnen ingelogd zijn of anoniem spelen, echter worden de resultaten niet opgeslagen na een spel als men anoniem speelt.
+
 **Het doel en gebruik website:** De gebruikers kunnen competities tegen elkaar doen op het gebied van triviavragen.
+
 **Moet voldoen aan:**
  * De website moet stabiel zijn
  * Het design moet duidelijk en dus overzichtelijk zijn
