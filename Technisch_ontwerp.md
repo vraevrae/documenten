@@ -29,3 +29,9 @@ Class Question:
 Javascript:
 * Timer
 * Redirect als de timer klaar is
+
+Plugins/Frameworks:
+* Flask
+* Flask-Session
+* passlib
+* SQLAlchemy
