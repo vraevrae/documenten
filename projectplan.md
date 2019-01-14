@@ -34,4 +34,4 @@
  * Documentatiebeheer: Robert-Jan
  * Communicatie: Rachel
  * Demonstratie van prototype: Deniz
- * Secretaris: Robert-Jan
+ * Secretaris: Rachel
