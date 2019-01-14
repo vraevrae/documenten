@@ -6,7 +6,7 @@ Routes:
 
 Bij elke route hoort er een scherm. 
 
-models:
+## models:
 Class Quiz: 
 * contructor, maakt nieuwe quiz aan
 * add_player, voegt een speler aan de quiz toe
