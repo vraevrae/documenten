@@ -18,6 +18,7 @@ Wanneer er op de start knop is gedrukt begint het spel en start een timer. Na ee
  * Er moet minimaal ondersteuning zijn voor de implementatie van jservice.io (MVP)
  * Het design moet duidelijk en dus overzichtelijk zijn (MVP)
  * De gebruikers moeten live met elkaar kunnen spelen (MVP)
+ * Omgaan met error's (MVP)
  * Je moet niet twee keer dezelfde vraag krijgen binnen één quiz
  * Er moet een scorebord zijn
  * Scores moeten worden bijgehouden per competitie, eventueel ook globaal
