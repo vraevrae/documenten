@@ -1,5 +1,3 @@
-Doen: maak een lijst van routes (met korte omschrijving) en bedenk alvast de naam van de functie. Geef aan of er een scherm bij hoort en of het een GET of POST request is.
-
 Routes:
 1.Index (Post/Get)
 2.Lobby (Post/Get)
