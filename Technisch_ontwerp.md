@@ -9,7 +9,6 @@ Routes:
 Bij elke route hoort er een scherm. 
 
 models:
-
 Class Quiz: 
 * contructor, maakt nieuwe quiz aan
 * add_player, voegt een speler aan de quiz toe
@@ -27,5 +26,6 @@ Class User:
 Class Question:
 * contructor, maakt class aan
 
-
-
+Javascript:
+* Timer
+* Redirect als de timer klaar is
