@@ -1,4 +1,7 @@
 Yunus: datasource
+
 RJ: Models
-Deniz: 
-Rachel: 
+
+Deniz: Templates
+
+Rachel: Javascript
