@@ -24,11 +24,11 @@ Class User:
 Class Question:
 * contructor, maakt class aan
 
-Javascript:
+## Javascript:
 * Timer
 * Redirect als de timer klaar is
 
-Plugins/Frameworks:
+## Plugins/Frameworks:
 * Flask
 * Flask-Session
 * passlib
