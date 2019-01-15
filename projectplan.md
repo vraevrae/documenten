@@ -35,3 +35,23 @@
  * Communicatie: Rachel
  * Demonstratie van prototype: Deniz
  * Secretaris: Rachel
+
+ ## Besluitvorming
+Iedereen heeft de verwantwoordelijkheid voor een deel van het project. Wanneer delen overlappen dienen de verantwoordenlijk met elkaar te overleggen. Wanneer iedereen er mee te maken heeft wordt er na overleg democratie besloten.
+
+ ### Functionaliteit
+
+ ### Gebruikersvriendelijkheid
+
+ ### Beveiliging
+
+ ### Datamodel
+
+
+ ## Projectplanning
+ Er is een srumbord in github gemaakt waar de to do's staan.
+ 
+ ### Planning:
+* Eerste basis versie af op 16 januari
+* 17 januari afspreken welk features wie gaat toevoegen
+* 23 januari eerste prototype af
