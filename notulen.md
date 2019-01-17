@@ -1,6 +1,8 @@
 ## notulen
 
 ### 11 januari 2019
+Aanwezig: Jelle, Robert-Jan, Yunus, Deniz, Rachel
+Notulist: Rachel
 * Samenvatting aanvullen met stappenplan (updaten)
 * mvp: vragen beantwoorden
 * lijst feauters op volgorde van belangrijk
@@ -24,3 +26,6 @@
 * wat doet wat (functie, class, database, tabbel, ect)
 * iemand focus op vragen kunnen beantwoorden iemand op lobby deel ect zorgen dat we niet afhankelijk zijn van elkaar :)
 * technisch ontwerp up to date houden
+
+
+### 17 januari 2019
