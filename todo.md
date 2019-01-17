@@ -1,5 +1,14 @@
-# TO DO
-Kleine dingen die we niet moeten vergeten!
+# Scrum
 
+## ToDo
+
+
+## Doing
+
+
+## Done
+
+
+## Ideas
 * Maximaal aantal spelers per game
 * Zorgen dat er niet twee dezelfde vragen in 1 quiz zitten

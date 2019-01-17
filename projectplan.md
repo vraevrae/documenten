@@ -52,6 +52,6 @@ Iedereen heeft de verwantwoordelijkheid voor een deel van het project. Wanneer d
  Er is een srumbord in github gemaakt waar de to do's staan.
  
  ### Planning:
-* Eerste basis versie af op 16 januari
+* Eerste basis versie af op 17 januari
 * 17 januari afspreken welk features wie gaat toevoegen
 * 23 januari eerste prototype af

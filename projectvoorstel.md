@@ -21,6 +21,7 @@ Wanneer er op de start knop is gedrukt begint het spel en start een timer. Na ee
  * Omgaan met error's (MVP)
  * Je moet niet twee keer dezelfde vraag krijgen binnen één quiz
  * Er moet een scorebord zijn
+ * Na afloop keuze terug naar index of een nieuwe quiz met dezelfde gebruikers
  * Scores moeten worden bijgehouden per competitie, eventueel ook globaal
  * Er kan gekozen worden om een random quiz te joinen
  * Gebruikers kunnen inloggen en registreren
