@@ -1,7 +1,8 @@
 Routes:
-1.Index (Post/Get)
 
-2.Quiz (Post/Get)
+1. Index (Post/Get)
+
+2. Quiz (Post/Get)
 
 
 Bij elke route hoort er een scherm. 
