@@ -1,7 +1,6 @@
-## notulen
-
-### 11 januari 2019
+## 11 januari 2019
 Aanwezig: Jelle, Robert-Jan, Yunus, Deniz, Rachel
+Tijd: 12:10
 Notulist: Rachel
 * Samenvatting aanvullen met stappenplan (updaten)
 * mvp: vragen beantwoorden
@@ -14,18 +13,15 @@ Notulist: Rachel
 * in de schets iets van een timer toevoegen
 * schets: rechter deel valt weg, vragen in het midden, navigatiebalk
 
-#### extra ideën:
+### extra ideën:
 * moeilijkheid niveaus indelen
 * kijken of sommige vragen misschien niet werken uit die database
 * aangeven dat vragen niet leuk zijn
 * zorgen dat je vragen niet 2x krijgt binnen 1 quiz
 * alle vragen van te voren indelen of terplekken bepalen of de volgende vraag makkelijker of moeilijker moet zijn
 
-#### volgende week:
+### volgende week:
 * welke dingen moeten gaan bestaan
 * wat doet wat (functie, class, database, tabbel, ect)
 * iemand focus op vragen kunnen beantwoorden iemand op lobby deel ect zorgen dat we niet afhankelijk zijn van elkaar :)
 * technisch ontwerp up to date houden
-
-
-### 17 januari 2019
