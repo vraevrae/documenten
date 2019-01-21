@@ -9,7 +9,7 @@
 
 ### QUIZ
 /api/quiz/new POST
-- RETURN 200 None
+- RETURN 200 quiz_id
   
 /api/quiz/:quiz_id GET -> Lobby
 - RETURN 200 quiz object + users
