@@ -24,8 +24,8 @@
 - RETURN 200 question + answers
 
 ### QUESTION
-	/api/question/:question_id GET -> Krijgen van vraag en antwoorden
-	- RETURN 200 question + possible answers
+/api/question/:question_id GET -> Krijgen van vraag en antwoorden
+- RETURN 200 question + possible answers
 
 ### USER
 /api/user/new POST -> Nieuwe gebruiker aanmaken
