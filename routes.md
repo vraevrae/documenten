@@ -20,9 +20,8 @@
 /api/quiz/:quiz_id/score GET -> Scoreboard
 - RETURN 200 list of users with scores
 
-### QUESTION
-/api/question/:question_id GET -> Krijgen van vraag en antwoorden
-- RETURN 200 question + possible answers
+/api/quiz/:quiz_id/question/current GET -> Quiz
+- RETURN 200 question + answers
 
 ### USER
 /api/user/new POST -> Nieuwe gebruiker aanmaken
