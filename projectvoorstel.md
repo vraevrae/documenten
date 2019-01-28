@@ -19,8 +19,8 @@ Wanneer er op de start knop is gedrukt begint het spel en start een timer. Na ee
  * Het design moet duidelijk en dus overzichtelijk zijn (MVP)
  * De gebruikers moeten live met elkaar kunnen spelen (MVP)
  * Omgaan met error's (MVP)
- * Je moet niet twee keer dezelfde vraag krijgen binnen één quiz
  * Er moet een scorebord zijn
+ * Je moet niet twee keer dezelfde vraag krijgen binnen één quiz
  * maximale lengte gebruikersnaam
  * Na afloop keuze terug naar index of een nieuwe quiz met dezelfde gebruikers
  * Scores moeten worden bijgehouden per competitie, eventueel ook globaal
