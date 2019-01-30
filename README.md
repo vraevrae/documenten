@@ -20,7 +20,7 @@ pytest
 ```
 
 ## Usage
-When opening the program, the user can choose to make a new game or join an already existing game. When making a new game, the user has to fill in a username and is able to pick a difficulty and a category, when joining an existing game, the user also has to fill in a gamecode. After that, all users arrive in a lobby where they can see the gamecode. The user who made the game will also see a button which can start the game. When the game starts, a timer will start and every 10 seconds all users will see a new question. After 10 questions a scoreboard will appear. Here you can also see the correct answers to all questions.
+Once the user is on the index page, he or she can create a new game or join an already existing game. When creating a new game, the user has to fill in a username and is able to pick a difficulty and a category. For joining an existing game, the user also has to fill in a gamecode. Users who has created the game and other user who have joined the existing game using the game code are placed in a lobby. The game creator is then able to start the game. During the game, users have 10 seconds to answer the question. Chose answers are saved whereby the user are not allowed to change their choices afterward. A new qeustion is retrieved every 10 seconds. Quiz consists of 10 questions in total. After finishing the quiz, the users are redirected to the scoreboard, where they are able to see their scores and which questions they have answered correctly.
 
 ## Credits
 Yunus Demir
