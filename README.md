@@ -2,7 +2,31 @@
 # VraeVrae
 
 ## Description
-Aim of our webapplication is to allow users to play trivia quiz against each other. By using our website, the players will be able to expand their miscellaneous knowledge while playing against other users.
+Aim of our webapplication is to allow users to play trivia quiz against each other. By using our website, the players will be able to expand their miscellaneous knowledge while playing live against other users.
+
+## Installation
+
+To install the project locally, run:
+```
+pip install -r requirements.txt
+```
+If you want to run the program in development mode run: 
+```
+flask run
+```
+To test the project, 35 tests have been written. To run those tests, run:
+```
+pytest
+```
+
+## Usage
+When opening the program, the user can choose to make a new game or join an already existing game. When making a new game, the user has to fill in a username and is able to pick a difficulty and a category, when joining an existing game, the user also has to fill in a gamecode. After that, all users arrive in a lobby where they can see the gamecode. The user who made the game will also see a button which can start the game. When the game starts, a timer will start and every 10 seconds all users will see a new question. After 10 questions a scoreboard will appear. Here you can also see the correct answers to all questions.
+
+## Credits
+Yunus Demir
+Robert-Jan Korteschiel
+Deniz Seyfeli
+Rachel de Haan
 
 ## Licensing
 
