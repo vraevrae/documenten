@@ -10,37 +10,26 @@ Wanneer er op de start knop is gedrukt begint het spel en start een timer. Na ee
 
 ## Schetsen
 
-### TODO, *Robert-Jan*
+### *Robert-Jan*
 
 ## Features
- * De website moet stabiel zijn (MVP)
- * Er moeten vragen kunnen worden beantwoord (MVP)
- * Er moet minimaal ondersteuning zijn voor de implementatie van jservice.io (MVP)
- * Het design moet duidelijk en dus overzichtelijk zijn (MVP)
- * De gebruikers moeten live met elkaar kunnen spelen (MVP)
+ * De website is stabiel (MVP)
+ * Vragen kunnen worden beantwoord (MVP)
+ * Er is minimaal ondersteuning voor de implementatie van opentdb (MVP)
+ * Het design is duidelijk en dus overzichtelijk (MVP)
+ * De gebruikers kunnen live met elkaar spelen (MVP)
  * Omgaan met error's (MVP)
- * Er moet een scorebord zijn
- * Je moet niet twee keer dezelfde vraag krijgen binnen één quiz
- * maximale lengte gebruikersnaam
- * Na afloop keuze terug naar index of een nieuwe quiz met dezelfde gebruikers
- * Scores moeten worden bijgehouden per competitie, eventueel ook globaal
- * Er kan gekozen worden om een random quiz te joinen
- * Gebruikers kunnen inloggen en registreren
- * Gebruikers de mogelijkheid geven om aan te geven als vragen niet goed of leuk zijn en ze te verwijderen uit de database
- * Meerdere moeilijkheidsgraden mogelijk bij quizvragen
- * Wanneer blijkt dat iedereen de vragen goed/fout heeft, de volgende vragen moeilijker/makkelijker maken
- * Gebruikers kunnen level up gaan door middel van xp die verdiend kan worden bij 
- * Feed van quizes met publieke quizzes waaraan iedereen kan meedoen
- * *Eventueel:* een chat na een quiz om vragen te bespreken of gebruikers te feliciteren
- * *Eventueel:* vriendensysteem waarin gebruikers met vrienden kunnen meespelen
+ * Er is een scorebord
+ * Gebruikers krijgen niet twee keer dezelfde vraag binnen één quiz
+ * Er meerdere moeilijkheidsgraden mogelijk bij het aanmaken van een quiz
+ * Er kan uit verschillende categorien worden gekozen bij het aanmaken van een quiz
 
 ## Afhankelijkheden
 ### Databronnen
- * jservice.io
+ * opentdb
 
 ### Externe componenten
  * Bootstrap
- * SQLite
  * Github
 
 ### Concurrenten
@@ -49,8 +38,6 @@ Wanneer er op de start knop is gedrukt begint het spel en start een timer. Na ee
 
 ### Moeilijke delen
  * Het live spelen en eerlijk houden van spelers (latency)
- * Meerdere API's ondersteunen
-
 
 ## Sanity check
 Komt nog!
